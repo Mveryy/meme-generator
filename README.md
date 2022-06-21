@@ -4,7 +4,7 @@ Exercício do curso de react : [Scrimba - Learn React](https://scrimba.com/learn
 
 ## Links
 
-Link: https://travel.journal.vercel.app/
+Link: https://meme-generator-cyan.vercel.app/
 
 ## Aprendizados
 
