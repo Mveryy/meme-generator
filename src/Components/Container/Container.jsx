@@ -5,7 +5,7 @@ function Container() {
     const [meme, setMeme] = useState({
         topText: "",
         bottomText: "",
-        randomImage: "",
+        randomImage: "https://i.imgflip.com/2fm6x.jpg",
     });
 
     useEffect(() => {
