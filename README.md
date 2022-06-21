@@ -8,12 +8,12 @@ Link: https://meme-generator-cyan.vercel.app/
 
 ## Aprendizados
 
-Event listeners
-useState
-useEffect
-Conditional rendering
-Forms
-Side effects
+- Event listeners
+- useState
+- useEffect
+- Conditional rendering
+- Forms
+- Side effects
 
 ## Construído com
 
